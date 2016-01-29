@@ -6,6 +6,7 @@
       <Value>Stind</Value>
       <Value>Umbraco</Value>
 	  <Value>api</Value>
+	  <Value>mvc</Value>
     </CollectionProperty>
   </GlobalSettings>
   <Analyzers>
