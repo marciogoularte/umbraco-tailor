@@ -9,7 +9,7 @@ umbraco-tailor with a single purpose: to help marketers create deep customer rel
 
 Tailor can be installed from either Our Umbraco or NuGet package repositories, or build manually from the source-code.
 
-For detailed documentation, please visit: [http://umbraco-tailor.readthedocs.org/](http://umbraco-tailor.readthedocs.org/)
+For detailed documentation, please visit: [https://github.com/walleyuan/umbraco-tailor/wiki](https://github.com/walleyuan/umbraco-tailor/wiki)
 
 
 ## Contributing to this project
@@ -37,6 +37,6 @@ Have a question?
 
 ## License
 
-Copyright &copy; 2014 Umbrella Inc, Our Umbraco and [other contributors](https://github.com/leekelleher/umbraco-ditto/graphs/contributors)
+Copyright &copy; 2014 Umbrella Inc, Our Umbraco and [other contributors](https://github.com/walleyuan/umbraco-tailor/graphs/contributors)
 
 Licensed under the [MIT License](LICENSE.md)
