@@ -1,7 +1,7 @@
 <img height="100" src="docs/assets/img/tailor.png" style="margin-bottom: 20px" alt="Tailor logo" title="Tailor">
 
 
-umbraco-tailor with a single purpose: to help marketers create deep customer relationship. That way, the interactions and coversations you have with customers are more relevant and meaningful to them, and you get to own an experience that's more personalizaed, more effective, and more successful.
+umbraco-tailor with a single purpose: to help marketers create deep customer relationship. That way, the interactions and coversations you have with customers are more relevant and meaningful to them, and you get to own an experience that's more personalized, more effective, and more successful.
 
 ## Documentation and notes
 
@@ -32,11 +32,13 @@ Have a question?
 ## Tailor Team
 
 * [Zhen YUAN](https://github.com/walleyuan)
-* [James Jackson-South](https://github.com/JimBobSquarePants)
+
+### Special thanks
+* Thanks to [James Jackson-South](https://github.com/JimBobSquarePants)
 
 
 ## License
 
-Copyright &copy; 2014 Umbrella Inc, Our Umbraco and [other contributors](https://github.com/walleyuan/umbraco-tailor/graphs/contributors)
+Copyright &copy; 2016 ZHEN YUAN, Our Umbraco and [other contributors](https://github.com/walleyuan/umbraco-tailor/graphs/contributors)
 
-Licensed under the [MIT License](LICENSE.md)
+Licensed under the [The General Public License (GPL)](LICENSE.md)
