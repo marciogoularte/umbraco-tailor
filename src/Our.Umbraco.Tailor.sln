@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AF110D38-1E34-430F-8BD5-75C89A550B8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{82EE85FB-705D-4DAA-81C2-D1B849E2DACE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{378F700E-A7DE-40E9-B55C-CB4191FAD19F}"
+	ProjectSection(SolutionItems) = preProject
+		..\LICENSE.md = ..\LICENSE.md
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modules", "modules", "{B10834B2-7DDB-4C86-80A5-7CB706AFBCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Our.Umbraco.Tailor", "Our.Umbraco.Tailor\Our.Umbraco.Tailor.csproj", "{9B9CD408-7118-41C2-B1E4-308EC2229DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Our.Umbraco.Tailorr.Core", "Our.Umbraco.Tailor.Core\Our.Umbraco.Tailorr.Core.csproj", "{2B4823DE-1645-4ACA-8ADC-89F7FB6587D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Our.Umbraco.Tailor.Repositories", "Our.Umbraco.Tailor.Repositories\Our.Umbraco.Tailor.Repositories.csproj", "{2BB5D5EB-122F-4986-BAA1-7066A9277199}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{AA538095-0027-4455-B551-AF6F7D5C4B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Our.Umbraco.Tailor.Sample.Website", "Our.Umbraco.Tailor.Sample.Website\Our.Umbraco.Tailor.Sample.Website.csproj", "{40D85B1C-1855-4408-9BBC-EFBAC16C143F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9CD408-7118-41C2-B1E4-308EC2229DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9CD408-7118-41C2-B1E4-308EC2229DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9CD408-7118-41C2-B1E4-308EC2229DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9CD408-7118-41C2-B1E4-308EC2229DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4823DE-1645-4ACA-8ADC-89F7FB6587D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4823DE-1645-4ACA-8ADC-89F7FB6587D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4823DE-1645-4ACA-8ADC-89F7FB6587D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4823DE-1645-4ACA-8ADC-89F7FB6587D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB5D5EB-122F-4986-BAA1-7066A9277199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB5D5EB-122F-4986-BAA1-7066A9277199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB5D5EB-122F-4986-BAA1-7066A9277199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB5D5EB-122F-4986-BAA1-7066A9277199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D85B1C-1855-4408-9BBC-EFBAC16C143F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D85B1C-1855-4408-9BBC-EFBAC16C143F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D85B1C-1855-4408-9BBC-EFBAC16C143F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D85B1C-1855-4408-9BBC-EFBAC16C143F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B9CD408-7118-41C2-B1E4-308EC2229DB7} = {AF110D38-1E34-430F-8BD5-75C89A550B8B}
+		{2B4823DE-1645-4ACA-8ADC-89F7FB6587D3} = {AF110D38-1E34-430F-8BD5-75C89A550B8B}
+		{2BB5D5EB-122F-4986-BAA1-7066A9277199} = {AF110D38-1E34-430F-8BD5-75C89A550B8B}
+		{40D85B1C-1855-4408-9BBC-EFBAC16C143F} = {AA538095-0027-4455-B551-AF6F7D5C4B93}
+	EndGlobalSection
+EndGlobal
