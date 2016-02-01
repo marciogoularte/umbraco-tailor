@@ -1,9 +1,9 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="IRepository.cs" company="Umbrella Inc, Our Umbraco and other contributors">
-//   Copyright Umbrella Inc, Our Umbraco and other contributors
+// <copyright file="IRepository.cs" company="ZHEN YUAN, Our Umbraco and other contributors">
+//   Copyright ZHEN YUAN, Our Umbraco and other contributors
 // </copyright>
 // <summary>
-//   Defines the IRepository type.
+//   The Repository interface.
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 

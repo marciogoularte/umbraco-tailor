@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="AssemblyInfo.cs" company="Umbrella Inc, Our Umbraco and other contributors">
-//   Copyright Umbrella Inc, Our Umbraco and other contributors
+// <copyright file="AssemblyInfo.cs" company="ZHEN YUAN, Our Umbraco and other contributors">
+//   Copyright ZHEN YUAN, Our Umbraco and other contributors
 // </copyright>
 // <summary>
 //   AssemblyInfo.cs

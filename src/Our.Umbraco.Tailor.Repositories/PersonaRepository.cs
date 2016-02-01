@@ -1,9 +1,9 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="PersonaRepository.cs" company="Umbrella Inc, Our Umbraco and other contributors">
-//   Copyright Umbrella Inc, Our Umbraco and other contributors
+// <copyright file="PersonaRepository.cs" company="ZHEN YUAN, Our Umbraco and other contributors">
+//   Copyright ZHEN YUAN, Our Umbraco and other contributors
 // </copyright>
 // <summary>
-//   The Persona repository.
+//   The base repository.
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
