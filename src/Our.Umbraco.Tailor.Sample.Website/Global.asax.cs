@@ -42,7 +42,7 @@ namespace Our.Umbraco.Tailor.Sample.Website
             base.OnApplicationStarted(sender, e);
 
             AreaRegistration.RegisterAllAreas();
-            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            this.RegisterRouter();
 
             var builder = new ContainerBuilder();
 
