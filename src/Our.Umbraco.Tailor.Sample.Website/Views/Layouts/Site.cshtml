@@ -1,4 +1,4 @@
-@inherits Umbraco.Web.Mvc.UmbracoViewPage<Our.Umbraco.Tailor.Sample.Website.Models.Renders.RenderPageBase>
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<Our.Umbraco.Tailor.Sample.Website.Models.Renders.RenderPageBase<Our.Umbraco.Tailor.Sample.Website.Models.DocumentTypes.PageBase>>
 
 <!DOCTYPE html>
 <html lang="@Model.CurrentCulture.TwoLetterISOLanguageName" prefix="og: http://ogp.me/ns#">
@@ -11,11 +11,6 @@
     <body>
         <div id="master-container">
             @RenderBody()
-            <div id="mobile-nav">
-                <a href="#mobile-nav" class="close-nav-btn">
-                    <span class="icon icon-exit"></span>
-                </a>
-            </div>
         </div>
         <!--Deferred scripts and libs-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>

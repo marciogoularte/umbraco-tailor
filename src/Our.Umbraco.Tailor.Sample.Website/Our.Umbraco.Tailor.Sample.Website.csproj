@@ -336,7 +336,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SurfaceRenderMvcController.cs" />
@@ -2747,6 +2746,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="App_Plugins\" />
+    <Folder Include="App_Start\" />
     <Folder Include="media\" />
     <Folder Include="Views\Base\" />
     <Folder Include="Views\MacroPartials\" />
@@ -2935,7 +2935,7 @@
   <ItemGroup>
     <Content Include="Web.config" />
     <Content Include="Views\Home.cshtml" />
-    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_ViewStart.cshtml" />
     <Content Include="Views\Layouts\Site.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
